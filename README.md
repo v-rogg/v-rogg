@@ -1,6 +1,6 @@
 Hey, I specialize in Micro "SaaS" based on automated data collection, analysis, and interactive visualization.
 
-Building blocks of choice: [Rust](https://www.rust-lang.org/), [Svelte](https://kit.svelte.dev), [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development), ... sometimes a little bit of [Python](https://www.python.org/)
+Building blocks of choice: [🦀 Rust](https://www.rust-lang.org/), [<img style="height: 15px" src="https://svelte.dev/favicon.png"> Svelte](https://kit.svelte.dev), [🧪 Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development), ... sometimes a little bit of [Python](https://www.python.org/)
 
 Besides my corporate job, I am currently working on:
 - [3:45 (ViertelVorVier)](viertelvorvier.app/): service to help you analyse your time management based on your calendar
